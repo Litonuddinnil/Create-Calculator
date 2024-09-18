@@ -6,16 +6,19 @@ html {
 button {
   padding: 24px;
   margin: 4px;
+  /* margin-bottom: 25px; */
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
   background-color: #d4d4d4;
   width: 75px;
-  color: #111;
+  font-size: 16px;
+  color: #111010;
 
 }
 
 .row input {
+  margin-top: 25px;
   margin: 10px;
   padding: 45px 20px;
   border: 2px solid black;
